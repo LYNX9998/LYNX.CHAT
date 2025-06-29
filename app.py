@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Keep your original functions except UI replaced:
 
